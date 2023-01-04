@@ -1,0 +1,20 @@
+{
+  "name": "tin-server",
+  "version": "1.0.0",
+  "description": "TIN_Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dariusz Dajcz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darekbiszkopt/TIN-Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darekbiszkopt/TIN-Server/issues"
+  },
+  "homepage": "https://github.com/darekbiszkopt/TIN-Server#readme"
+}
