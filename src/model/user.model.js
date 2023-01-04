@@ -38,8 +38,9 @@ const User = sequelize.define("books", {
     }
 });
 
-sequelize.sync().then(() => {
-    console.log('Book table created successfully!');
+User.sync().then(() => {
+    console.log('User table created successfully!');
 }).catch((error) => {
     console.error('Unable to create table : ', error);
 });
+
